@@ -1,5 +1,9 @@
 # vue3-tailwind-project
 
+
+## Online Preview
+Open [https://sprightly-druid-ce56d1.netlify.app/]
+
 ## Project setup
 ```
 npm install
